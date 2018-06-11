@@ -3,7 +3,7 @@ var vc = 0;
 while (count < 1) {
     document.write(makeid() + "\n");
     vc++;
-    if (vc == 50000) {
+    if (vc == 700) {
         count = 1;
     }
 
